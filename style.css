@@ -1,0 +1,93 @@
+*{
+    border-radius: 25px ;
+    border: 2px solid;
+    border-color: black;
+    background-color:black;
+}
+
+.Title{
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-size: x-large;
+    background-color: blue;
+    top: 0;
+    position: -webkit-sticky;
+    position: sticky;
+}
+
+.content{
+    color:white; 
+    font-style: italic; 
+    font-size: x-large;
+}
+
+.events{
+color: white;
+font-style: italic;
+font-size: xx-large;
+}
+
+.program{
+    color: white;
+    font-style: italic;
+    font-size: x-large;
+}
+
+.about{
+color: white;
+font-style: italic;
+font-size: xx-large;
+}
+
+.info{
+    color: white;
+    font-style: italic;
+    font-size: x-large;
+}
+
+.notadded{
+color: white;
+font-size: xx-large;
+font-style: italic;
+}
+
+.drawbacks{
+    color: white;
+    font-size: x-large;
+    font-style: italic;
+}
+
+.gamelink{
+    color:white;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+.game{
+    color: white;
+    font-size: x-large;
+    font-style: italic;
+}
+
+.conclusion{
+  color: white;  
+  font-size: xx-large;
+  font-style: italic;
+}
+
+.feedback{
+    color: white;
+    font-size: x-large;
+    font-style: italic;
+}
+
+.comments{
+color:white;
+font-size: x-large;
+font-style: italic;
+}
+
+a:hover{
+    background-color: white;
+    color: coral;
+}
